@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello, Dr. Olsen \nHello, Max Jeruss");
+        System.out.println("Hello, Liberty the Best Dog");
     }
 }
