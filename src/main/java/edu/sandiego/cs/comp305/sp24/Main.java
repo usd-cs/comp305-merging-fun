@@ -5,12 +5,7 @@ public class Main {
 
 
         System.out.println("Hello, Dr. Olsen");
-        System.out.println("Hello, class!");
-        System.out.println("Hello, Kyle W.");
-        System.out.println("Hello, Andrew");
-        System.out.println("Hello, Sebastian");
-        System.out.println("Hello, Wanda");
-        System.out.println("Hello, Gianpaolo");
+        System.out.println("Hello, Audrey");
 
     }
 }
