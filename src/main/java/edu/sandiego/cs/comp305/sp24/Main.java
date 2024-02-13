@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello, Dr. Olsen");
         System.out.println("Hello, Noah");
+        System.out.println("Hello, Kobe!!!");
         System.out.println("Hello, class!");
         System.out.println("Hello, Kyle W.");
         System.out.println("Hello, Andrew");
