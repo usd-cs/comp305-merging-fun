@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Hello, Wanda");
         System.out.println("Hello, Gianpaolo");
         System.out.println("Hello, Eli");
+        System.out.println("Hi class -eli");
 
     }
 }
