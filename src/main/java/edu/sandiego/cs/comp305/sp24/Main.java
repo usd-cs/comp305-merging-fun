@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Hello, Sebastian");
         System.out.println("Hello, Wanda");
         System.out.println("Hello, Gianpaolo");
+        System.out.println("Hello, Amanda");
 
     }
 }
